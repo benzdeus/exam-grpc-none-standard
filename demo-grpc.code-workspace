@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "./auth-service"
+		},
+		{
+			"path": "./gate-way"
+		},
+		{
+			"path": "./payment-service"
+		},
+		{
+			"path": "./utils"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {}
+}

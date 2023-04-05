@@ -1,0 +1,5 @@
+{
+    "go.buildFlags": [
+        "-tags", "unit e2e integration"
+    ],
+}
